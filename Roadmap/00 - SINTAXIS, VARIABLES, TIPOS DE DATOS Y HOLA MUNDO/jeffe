@@ -1,0 +1,21 @@
+#https://www.python.org/
+#comentario en unalinea
+
+¨¨¨
+estotambien es
+un comentario
+en carias linea
+¨¨¨
+
+my_variable= ¨Mi variale¨
+
+MY_CONSTANT=¨Mi constante¨#por conencion
+
+my_int=1
+my_float=1.5
+my_bool=true
+my_bool= false
+my_string= ¨mi cadena de testo¨
+my_other_ strimg= ´mi cadena de testo
+
+print(¨!hola, pythin!¨)
